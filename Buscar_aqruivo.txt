@@ -1,0 +1,7 @@
+Buscar_aqruivo.txt
+Jose anastacio
+#buscar arquivo em diretorio
+find -iname parte_do_nome_do_arquivo*
+
+#Buscar arquivo escrevendo o endereco do diretorio
+find /home/usuario/Documentos/nomedapasta -iname parte_do_nome_do_arquivo*
